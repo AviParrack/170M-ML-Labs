@@ -1,0 +1,1 @@
+Here is a series of guided ML tasks completed as part of Physics 170M - Machine Learning for Physics. The templates were authored by professor Do and colaborators, the code and segments were completed by me. 
